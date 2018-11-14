@@ -17,7 +17,7 @@ API Key was provided by [Google](https://developers.google.com/maps/documentatio
 
 Client ID & Client Secret were obtained from [FourSquare](https://developer.foursquare.com). 
 
-###Tutorials Used 
+### Tutorials Used 
 
 Ryan Waite's [FEND Project 7 Walk Through and Complete Guide](https://www.youtube.com/watch?v=LvQe7xrUh7I&index=6&list=PLKC17wty6rS1XVZbRlWjYU0WVsIoJyO3s&t=0s). 
 
