@@ -17,12 +17,12 @@ API Key was provided by [Google] (https://developers.google.com/maps/documentati
 
 Client ID & Client Secret were obtained from [FourSquare](https://developer.foursquare.com). 
 
-##Tutorials Used 
+###Tutorials Used 
 
-[Ryan Waite FEND Project 7 Walk Through and Complete Guide] (https://www.youtube.com/watch?v=LvQe7xrUh7I&index=6&list=PLKC17wty6rS1XVZbRlWjYU0WVsIoJyO3s&t=0s). 
+Ryan Waite's [FEND Project 7 Walk Through and Complete Guide] (https://www.youtube.com/watch?v=LvQe7xrUh7I&index=6&list=PLKC17wty6rS1XVZbRlWjYU0WVsIoJyO3s&t=0s). 
 
-[KenJournal Project 7 Tutorial] (https://www.youtube.com/channel/UCjsqh3zEzzszyfp0DZ3EOuQ).
+KenJournal's [Project 7 Tutorial] (https://www.youtube.com/channel/UCjsqh3zEzzszyfp0DZ3EOuQ).
 
-[Yahya Elharony Neighborhood Map Walk Through]
+Yahya Elharony's [Neighborhood Map Walk Through]
 (https://www.youtube.com/channel/UCcWSbBe_s-T_gZRnqFbtyIA).
 
