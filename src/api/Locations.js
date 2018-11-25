@@ -21,5 +21,5 @@ export const getLocations = () => {
     .then(handleErrors)
     .then(response => response.json())
     .then(result => result.response.groups[0].items)
-    .catch(error => console.log(error));
+    .catch(error => alert("Foursquare error. Try to restart the page."))
 };
