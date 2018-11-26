@@ -30,7 +30,7 @@ class Content extends React.Component {
   prepareContent = location => {
     return `<div>
     <p className="title">
-      Name: <a href="#">${location.venue.name}</a>
+      Name: <a href="http://google.com/maps/search/${location.venue.name}/@33.448376,-112.074036" target="_blank">${location.venue.name}</a>
     </p>
     <p>Address: ${location.venue.location.address}</p>
   </div>`;
